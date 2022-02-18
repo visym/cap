@@ -3,19 +3,19 @@
 
 # Consented Activities of People (CAP)
 
-# Explorer
+## Explorer
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/visym/cap/blob/main/docs/cap_hoverpixel_selector_56K.html" style="width: 1280px; height: 768px; border: 0px;" allowfullscreen></iframe>
 
-# Summary
+## Summary
 
 * TBD
 
-# Download
+## Download
 
 * TBD
 
-# License
+## License
 
 Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
