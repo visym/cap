@@ -10,6 +10,7 @@ This dataset is associated with the [Open Fine-grained Activity Detection Challe
 
 [arXiv link]
 
+
 ## Explorer
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/visym/cap/blob/main/docs/cap_hoverpixel_selector_56K.html" style="width: 1280px; height: 768px; border: 0px;" allowfullscreen></iframe>
@@ -20,9 +21,9 @@ This dataset is associated with the [Open Fine-grained Activity Detection Challe
 
 ## Summary
 
-<img src="cap_histogram.pdf" width="1280" height="651" />
+<img src="cap_histogram.png" width="1280" height="651" />
 
-<img src="cap_summary.pdf" width="1280" height="450" />
+<img src="cap_summary.png" width="1280" height="450" />
 
 
 ## Download
