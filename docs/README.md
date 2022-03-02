@@ -21,10 +21,8 @@ This dataset is associated with the [Open Fine-grained Activity Detection Challe
 
 ## Summary
 
-<img src="cap_histogram.png" width="1280" height="651" />
-
 <img src="cap_summary.png" width="1280" height="450" />
-
+<img src="cap_histogram.png" width="1280" height="651" />
 
 ## Download
 
