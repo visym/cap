@@ -2,9 +2,13 @@
 
 # Overview
 
-The consented activities of people (CAP) dataset is a fine grained activity dataset for visual AI research.  This dataset is associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).
+The consented activities of people (CAP) dataset is a fine grained activity dataset for visual AI research collected using the [Visym Collector](https://visym.com/collector) platform.
+
+This dataset is associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).
 
 [describe me]
+
+[arXiv link]
 
 ## Explorer
 
