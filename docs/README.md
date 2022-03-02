@@ -16,14 +16,17 @@ The consented activities of people (CAP) dataset is a fine grained activity data
 
 ## Summary
 
-<embed src="cap_histogram.pdf" width="1280" height="651" />
+<img src="cap_histogram.pdf" width="1280" height="651" />
 
-<embed src="cap_summary.pdf" width="1280" height="450" />
+<img src="cap_summary.pdf" width="1280" height="450" />
 
 
 ## Download
 
-* [cap_classification_clip.tar.gz (288 GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_pip.tar.gz)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_clip.tar.gz (288 GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_clip.tar.gz)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_clip_stabilized.tar.gz (XXX GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_clip_stabilized.tar.gz)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_pad.tar.gz (XXX GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_pad.tar.gz)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_pad_stabilized.tar.gz (XXX GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_pad_stabilized.tar.gz)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;Last Updated 02Mar22
 
 ## License
 
