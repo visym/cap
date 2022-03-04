@@ -1,6 +1,8 @@
 # Overview
 
-The consented activities of people (CAP) dataset is a fine grained activity dataset for visual AI research curated using the [Visym Collector](https://visym.com/collector) platform.  The CAP dataset contains annotated videos of fine-grained and coarse-grained activity classes of consented people.  The dataset was collected with the following goals:
+The Consented Activities of People (CAP) dataset is a fine grained activity dataset for visual AI research curated using the [Visym Collector](https://visym.com/collector) platform.  The CAP dataset contains annotated videos of [fine-grained](https://github.com/visym/cap/blob/main/classification/cap_labels.csv) and [coarse-grained](https://github.com/visym/cap/blob/main/classification/cap_superlabels.csv) activity classes of consented people.  Videos are annotated with bounding box tracks around the primary actor along with temporal start/end frames for each activity instance, and distributed in [vipy](https://visym.github.io/vipy) json format.  An interactive visualization and video summary is available for review below.  
+
+The CAP dataset was collected with the following goals:
 
 * **Atomic.** Activities have length ≤ 3 seconds and visually grounded (e.g. activities should be unambiguously determined from the pixels).  
 * **Non-overlapping.**  All activities are performed independently, and no activities are performed jointly or simultaneously overlapping with other activities (e.g. a subject will not simultaneously perform the “person uses cell phone” activity while performing the “person removes hat” activity). 
@@ -11,7 +13,6 @@ The consented activities of people (CAP) dataset is a fine grained activity data
 * **Worldwide.**  Videos are collected from over 900 collectors in 50 countries. 
 * **Large-scale.**  We provide an open and easily donwloaded training/valiation set suitable for pre-training.  
 
-The CAP dataset is annotated with bounding boxes around the primary actor, and temporal start/end frames for each activity instance. An interactive visualization and video summary is available for review below. 
 
 This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
 
