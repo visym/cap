@@ -1,14 +1,20 @@
-
-
 # Overview
 
-The consented activities of people (CAP) dataset is a fine grained activity dataset for visual AI research collected using the [Visym Collector](https://visym.com/collector) platform.
+The consented activities of people (CAP) dataset is a fine grained activity dataset for visual AI research curated using the [Visym Collector](https://visym.com/collector) platform.
 
-This dataset is associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).
+The CAP dataset contains annotated videos of fine-grained and coarse-grained activity classes of consented people.  The dataset was collected with the following goals:
 
-[describe me]
+* **Atomic.** Activities are atomic at ≤ 3 seconds and visually grounded (e.g. activities should be unambiguously determined from the pixels).  
+* **Non-overlapping.**  All activities are performed independently, and no activities are performed jointly or simultaneously overlapping with other activities (e.g. a subject will not simultaneously perform the “person uses cell phone” activity while performing the “person removes hat” activity). 
+* **Person centered.**  All activities are collected from handheld mobile devices at a fixed security perspective (e.g. looking down on a scene from above) and include a single consented person as the primary subject.  Subjects are tasked with performing specific atomic activities, person/object or person/person interactions.  
+* **Fine-grained classes.**  All activities are selected so that there are subtle differences between classes where the activity representation and discrimination is critical for performance, rather than the scene context or object detection.
+* **Around the house.**  The collection involves objects, locations and activities that most collectors have easy access to and can easily perform without practice.
+* **Ethical.**  All videos are collected with informed consent for how the videos submitted by collectors will be shared and used.  Non-consented subjects have their faces blurred in-app. 
+* **Worldwide.**  Videos are collected from over 900 collectors in 50 countries. 
 
-[arXiv link]
+The CAP dataset is annotated with bounding boxes around the primary actor, and temporal start/end frames for each activity instance. An interactive visualization and video summary is available for review below.
+
+This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).
 
 
 ## Explorer
@@ -38,6 +44,12 @@ This dataset is associated with the [Open Fine-grained Activity Detection Challe
 ## License
 
 Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  Every subject in this dataset has consented to their personally identifable information to be shared publicly for the purpose of advancing computer vision research.  Non-consented subjects have their faces blurred out.  
+
+## Reference
+
+[arXiv link]
+[bibtex]
+
 
 # Acknowledgement
 
