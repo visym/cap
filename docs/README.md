@@ -28,7 +28,7 @@ This dataset will be associated with the [Open Fine-grained Activity Detection C
 ## Summary
 
 <img src="cap_histogram.png" width="1280" height="100%" />
-<img src="cap_summary.png" width="840" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
+<img src="cap_summary.png" width="960" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
 
 ## Download
 
