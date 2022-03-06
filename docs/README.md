@@ -14,7 +14,7 @@ The CAP dataset was collected with the following goals:
 * **Large-scale.**  We provide an open and easily donwloaded training/valiation set suitable for pre-training.  
 
 
-This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
+This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov) to be launched in Spring 2022.  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
 
 
 ## Explorer
