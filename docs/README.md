@@ -11,7 +11,7 @@ The CAP dataset was collected with the following goals:
 * **Around the house.**  The collection involves objects, locations and activities that most collectors have easy access to and can easily perform without practice.
 * **Ethical.**  All videos are collected with informed consent for how the videos will be shared and used.  Non-consented subjects have their faces blurred. 
 * **Worldwide.**  Videos are collected from over 750 collectors in 33 countries. 
-* **Large-scale.**  We provide an open and easily donwloaded training/valiation set suitable for pre-training.  
+* **Large-scale.**  We provide an open and easily downloaded training/validation set suitable for pre-training.  
 
 
 This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov) to be launched in Spring 2022.  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
