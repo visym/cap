@@ -11,10 +11,10 @@ The CAP dataset was collected with the following goals:
 * **Around the house.**  The collection involves objects, locations and activities that most collectors have easy access to and can easily perform without practice.
 * **Ethical.**  All videos are collected with informed consent for how the videos will be shared and used.  Non-consented subjects have their faces blurred. 
 * **Worldwide.**  Videos are collected from over 750 collectors in 33 countries. 
-* **Large-scale.**  We provide an open and easily donwloaded training/valiation set suitable for pre-training.  
+* **Large-scale.**  We provide an open and easily downloaded training/validation set suitable for pre-training.  
 
 
-This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov).  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
+This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov) to be launched in Spring 2022.  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
 
 
 ## Explorer
@@ -27,13 +27,13 @@ This dataset will be associated with the [Open Fine-grained Activity Detection C
 
 ## Summary
 
-<img src="cap_histogram.png" width="1280" height="651" />
-<img src="cap_summary.png" width="840" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
+<img src="cap_histogram.png" width="1280" height="100%" />
+<img src="cap_summary.png" width="960" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
 
 ## Download
 
-* [cap_classification_clip.tar.gz (288 GB)](https://dl.dropboxusercontent.com/s/XXXX/cap_classification_clip.tar.gz)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
-    * Tight temporal clip training/validation set
+* cap_classification_clip.tar.gz (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
+    * Tight temporal clip training/validation set (download link temporarily removed)
 * cap_classification_clip_stabilized.tar.gz (XXX GB)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;
     * [Background stabilized](https://github.com/visym/vipy/blob/master/vipy/video.py#L3972-L3996) training/validation set
 * cap_classification_pad.tar.gz (XXX GB)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;
