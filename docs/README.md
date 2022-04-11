@@ -21,6 +21,8 @@ This dataset will be associated with the [Open Fine-grained Activity Detection C
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/visym/cap/blob/main/docs/cap_hoverpixel_selector_56K.html" style="width: 1280px; height: 768px; border: 0px;" allowfullscreen></iframe>
 
+The dataset explorer shows approximately 4% sample of the CAP dataset, tightly cropped spatially around the actor and cropped temporally around the fine-grained activity being performed.  The full dataset includes the larger spatiotemporal context in each video around the activity.  This [open source visualization tool](https://github.com/visym/vipy/blob/master/vipy/visualize.py#L20-L51) can be sorted by category or color, and shown in full screen.
+
 ## Visualization
 
 <iframe width="1280" height="768" src="https://www.youtube.com/embed/Je91vWjSHpo" title="Fine-grained Activities of Consented People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
