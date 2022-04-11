@@ -21,7 +21,7 @@ This dataset will be associated with the [Open Fine-grained Activity Detection C
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/visym/cap/blob/main/docs/cap_hoverpixel_selector_56K.html" style="width: 1280px; height: 768px; border: 0px;" allowfullscreen></iframe>
 
-The dataset explorer shows approximately 4% sample of the CAP dataset, tightly cropped spatially around the actor and cropped temporally around the fine-grained activity being performed.  The full dataset includes the larger spatiotemporal context in each video around the activity, and the complete set of [activity labels](https://github.com/visym/cap/blob/main/classification/superlabel.pdf).  This [open source visualization tool](https://github.com/visym/vipy/blob/master/vipy/visualize.py#L20-L51) can be sorted by category or color, and shown in full screen.
+The dataset explorer shows a 4% sample of the CAP dataset, tightly cropped spatially around the actor and cropped temporally around the fine-grained activity being performed.  The full dataset includes the larger spatiotemporal context in each video around the activity, and the complete set of [activity labels](https://github.com/visym/cap/blob/main/classification/superlabel.pdf).  This [open source visualization tool](https://github.com/visym/vipy/blob/master/vipy/visualize.py#L20-L51) can be sorted by category or color, and shown in full screen.
 
 ## Visualization
 
