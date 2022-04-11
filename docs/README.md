@@ -27,6 +27,8 @@ The dataset explorer shows approximately 4% sample of the CAP dataset, tightly c
 
 <iframe width="1280" height="768" src="https://www.youtube.com/embed/Je91vWjSHpo" title="Fine-grained Activities of Consented People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This video visualization shows a sample of 40 activities each from 28 collectors showing the tight crop around the actor.  We also provide visualization of a random sample of [full context videos](https://youtu.be/KvULvetOV8c) available in the training/validation set and [5Hz background stabilized](https://youtu.be/Iyo4fRLR65Q) videos.  
+
 ## Summary
 
 <img src="cap_histogram.png" width="1280" height="100%" />
