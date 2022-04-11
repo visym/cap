@@ -10,7 +10,7 @@ The CAP dataset was collected with the following goals:
 * **Fine-grained.**  All activities are selected so that there are subtle differences between classes where the activity representation and discrimination is critical for performance, rather than the scene context or object detection.
 * **Around the house.**  The collection involves objects, locations and activities that most collectors have easy access to and can easily perform without practice.
 * **Ethical.**  All videos are collected with informed consent for how the videos will be shared and used.  Non-consented subjects have their faces blurred. 
-* **Worldwide.**  Videos are collected from over 750 collectors in 33 countries. 
+* **Worldwide.**  Videos are collected from 780 collectors in 33 countries. 
 * **Large-scale.**  We provide an open and easily downloaded training/validation set suitable for pre-training.  
 
 
