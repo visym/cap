@@ -48,8 +48,7 @@ Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecom
 
 ## Reference
 
-[arXiv link]
-[bibtex]
+[arXiv link - coming soon]
 
 
 # Acknowledgement
