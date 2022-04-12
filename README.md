@@ -8,7 +8,7 @@ The Consented Activities of People (CAP) dataset is a fine grained activity data
 The CAP dataset was collected with the following goals:
 
 * Atomic. Activities have length ≤ 3 seconds and visually grounded (e.g. activities should be unambiguously determined from the pixels).
-* Non-overlapping. All activities are performed independently, and no activities are performed jointly or simultaneously overlapping with other activities (e.g. a subject will not simultaneously perform the “person uses cell phone” activity while performing the “person removes hat” activity).
+* Non-overlapping. All activities are performed independently, and no activities are performed jointly or simultaneously overlapping with other activities (e.g. a subject will not simultaneously perform the “person uses cell phone” activity while performing the “person takes off hat” activity).
 * Person centered. All activities are collected from handheld mobile devices at a fixed security perspective (e.g. looking down on a scene from above) and include a single consented person as the primary subject. Subjects are tasked with performing specific atomic activities, person/object or person/person interactions.
 * Fine-grained. All activities are selected so that there are subtle differences between classes where the activity representation and discrimination is critical for performance, rather than the scene context or object detection.
 * Around the house. The collection involves objects, locations and activities that most collectors have easy access to and can easily perform without practice.
