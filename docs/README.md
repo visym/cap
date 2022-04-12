@@ -1,6 +1,6 @@
 # Overview
 
-The [Consented Activities of People (CAP) dataset](https://github.com/visym/cap) is a fine grained activity dataset for visual AI research curated using the [Visym Collector](https://visym.com/collector) platform.  The CAP dataset contains annotated videos of [fine-grained activity classes](https://github.com/visym/cap/blob/main/classification/cap_labels.csv) of consented people.   Videos are recorded from a wall or ceiling mounted camera viewpoint, containing subjects performing every day activities.  Videos are annotated with bounding box tracks around the primary actor along with temporal start/end frames for each activity instance, and distributed in [vipy](https://visym.github.io/vipy) json format.  An interactive visualization and video summary is available for review below.  
+The [Consented Activities of People (CAP) dataset](https://github.com/visym/cap) is a fine grained activity dataset for visual AI research curated using the [Visym Collector](https://visym.com/collector) platform.  The CAP dataset contains annotated videos of [fine-grained activity classes](https://github.com/visym/cap/blob/main/classification/cap_labels.csv) of consented people.   Videos are recorded from a wall or ceiling mounted camera viewpoint looking down on the scene from above, containing subjects performing every day activities.  Videos are annotated with bounding box tracks around the primary actor along with temporal start/end frames for each activity instance, and distributed in [vipy](https://visym.github.io/vipy) json format.  An interactive visualization and video summary is available for review below.  
 
 The CAP dataset was collected with the following goals:
 
@@ -12,7 +12,6 @@ The CAP dataset was collected with the following goals:
 * **Ethical.**  All videos are collected with informed consent for how the videos will be shared and used.  Non-consented subjects have their faces blurred. 
 * **Worldwide.**  Videos are collected from 780 collectors in 33 countries. 
 * **Large-scale.**  We provide an open and easily downloaded training/validation set suitable for pre-training.  
-
 
 This dataset will be associated with the [Open Fine-grained Activity Detection Challenge](https://openfad.nist.gov) to be launched in Spring 2022.  We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.  
 
