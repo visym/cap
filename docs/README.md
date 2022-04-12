@@ -34,6 +34,8 @@ This video visualization shows a sample of 40 activities each from 28 collectors
 <img src="cap_histogram.png" width="1280" height="100%" />
 <img src="cap_summary.png" width="960" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
 
+This summary shows the statistics of the entire CAP dataset which includes activity classification and activity detection subsets as well as sequestered test sets.  The public training/validation sets for specific tasks will be smaller than these totals.  
+
 ## Download
 
 * [cap_classification_clip.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_clip.tar.gz) (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
