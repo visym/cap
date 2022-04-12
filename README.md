@@ -3,7 +3,7 @@ Dataset site: [https://visym.github.io/cap](https://visym.github.io/cap)
 
 # Summary
 
-The Consented Activities of People (CAP) dataset is a fine grained activity dataset for visual AI research curated using the Visym Collector platform. The CAP dataset contains annotated videos of fine-grained activity classes of consented people. Videos are annotated with bounding box tracks around the primary actor along with temporal start/end frames for each activity instance, and distributed in vipy json format. An interactive visualization and video summary is available for review below.
+The Consented Activities of People (CAP) dataset is a fine grained activity dataset for visual AI research curated using the Visym Collector platform. The CAP dataset contains annotated videos of fine-grained activity classes of consented people.  Videos are recorded from a security camera like perspective looking down on a scene from above, of subjects performing every day activities.  Videos are annotated with bounding box tracks around the primary actor along with temporal start/end frames for each activity instance, and distributed in vipy json format. An interactive visualization and video summary is available for review below.
 
 The CAP dataset was collected with the following goals:
 
