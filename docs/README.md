@@ -38,9 +38,9 @@ This summary shows the statistics of the entire CAP dataset which includes activ
 ## Download
 
 * [cap_classification_clip.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_clip.tar.gz) (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
-    * Tight temporal clip training/validation set 
+    * Tight temporal clip training/validation set for handheld activity classification
 * [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;Last Updated 02Mar22
-    * Temporally padded (&gt;4s) training/validation set
+    * Temporally padded (&gt;4s) training/validation set for handheld activity classification
 
 <!--
 * cap_classification_pad_stabilized.tar.gz (XXX GB)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;
