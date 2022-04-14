@@ -30,7 +30,8 @@ This video visualization shows a sample of 40 activities each from 28 collectors
 
 ## Summary
 
-<img src="cap_histogram.png" width="1280" height="100%" />
+<img src="cap_histogram_v2.pdf" width="1280" height="100%" />
+<img src="cap_coarse_histogram.pdf" width="1280" height="100%" />
 <img src="cap_summary.png" width="960" style="display:block;margin-left:auto;margin-right:auto;" height="100%" />
 
 This summary shows the statistics of the entire CAP dataset which includes activity classification and activity detection subsets as well as sequestered test sets.  The public training/validation sets for specific tasks will be smaller than these totals.  
