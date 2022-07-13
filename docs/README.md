@@ -53,9 +53,8 @@ Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecom
 
 ## Reference
 
-**Fine-grained Activities of People Worldwide**  
-Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
-[arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
+Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)
+**Fine-grained Activities of People Worldwide**, [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
 
 > @InProceedings{Byrne2022,  
 > author = {J. Byrne and G. Castanon and Z. Li and G. Ettinger},  
