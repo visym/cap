@@ -26,6 +26,18 @@ This dataset will be associated with the Open Fine-grained Activity Detection Ch
 * [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;
     * Temporally padded (&gt;4s) training/validation set for handheld activity classification
 
+# Citation
+
+**Fine-grained Activities of People Worldwide**  
+Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
+[arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
+
+> @InProceedings{Byrne2022,  
+> author = {J. Byrne and G. Castanon and Z. Li and G. Ettinger},  
+> title = {Fine-grained Activities of People Worldwide},  
+> booktitle = {arXiv:2207.05182},  
+> year = {2022}  
+> } 
 
 # License
 
