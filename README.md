@@ -28,16 +28,15 @@ This dataset will be associated with the Open Fine-grained Activity Detection Ch
 
 # Citation
 
-**Fine-grained Activities of People Worldwide**  
 Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
-[arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
+"Fine-grained Activities of People Worldwide", [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
 
-> @InProceedings{Byrne2022,  
-> author = {J. Byrne and G. Castanon and Z. Li and G. Ettinger},  
+> @misc{Byrne2022fine,  
+> author = {Jeffrey Byrne and Greg Castanon and Zhongheng Li and Gil Ettinger},  
 > title = {Fine-grained Activities of People Worldwide},  
-> booktitle = {arXiv:2207.05182},  
-> year = {2022}  
-> } 
+> eprint = {arXiv:2207.05182},  
+> year = {2022},  
+> }  
 
 # License
 
