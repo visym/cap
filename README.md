@@ -33,7 +33,7 @@ Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://s
 
 > @article{Byrne2022Fine,  
 > &nbsp;&nbsp; title = "Fine-grained Activities of People Worldwide",  
-> &nbsp;&nbsp; author = "J. Byrne and G. Castanon and Z.Li and G. Ettinger",  
+> &nbsp;&nbsp; author = "J. Byrne and G. Castanon and Z. Li and G. Ettinger",  
 > &nbsp;&nbsp; journal = "arXiv:2207.05182",  
 > &nbsp;&nbsp; year = 2022   
 > }
