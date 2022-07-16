@@ -56,12 +56,12 @@ Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecom
 Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
 "Fine-grained Activities of People Worldwide", [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022   
 
-> @misc{Byrne2022fine,  
-> author = {Jeffrey Byrne and Greg Castanon and Zhongheng Li and Gil Ettinger},  
-> title = {Fine-grained Activities of People Worldwide},  
-> eprint = {arXiv:2207.05182},  
-> year = {2022},  
-> }  
+> @article{Byrne2022Fine,  
+> &nbsp;&nbsp; title = "Fine-grained Activities of People Worldwide",  
+> &nbsp;&nbsp; author = "J. Byrne and G. Castanon and Z.Li and G. Ettinger",  
+> &nbsp;&nbsp; journal = "arXiv:2207.05182",  
+> &nbsp;&nbsp; year = 2022   
+> }
 
 # Acknowledgement
 
