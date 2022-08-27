@@ -16,7 +16,7 @@ The CAP dataset was collected with the following goals:
 * Worldwide. Videos are collected from over 750 collectors in 33 countries.
 * Large-scale. We provide an open and easily downloaded training/validation set suitable for pre-training.
 
-This dataset will be associated with the Open Fine-grained Activity Detection Challenge to be launched in Late Summer 2022. We will evaluate activity classification in trimmed clips and temporal activity detection in untrimmed clips.
+This dataset will be associated with the [Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/fgad23) Challenge opening on September 5 2022.  The first workshop will evaluate activity classification in trimmed clips and the second workshop will evaluate temporal activity detection in untrimmed clips.
 
 
 # Download
