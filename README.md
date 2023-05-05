@@ -28,7 +28,7 @@ This dataset is associated with the:
     * Tight temporal clip training/validation set for handheld activity classification
 * [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;
     * Temporally padded (&gt;4s) training/validation set for handheld activity classification
-* [cap_detection_handheld_val.tar.gz](https://dl.dropboxusercontent.com/s/db11zv0gcycu384/cap_detection_handheld_val.tar.gz.72f58e69582c17dd366d3c7e85cf0da8) (0.9 GB)&nbsp;&nbsp;MD5:72f58e69582c17dd366d3c7e85cf0da8&nbsp;&nbsp;(Updated 05May23)
+* [cap_detection_handheld_val.tar.gz](https://dl.dropboxusercontent.com/s/db11zv0gcycu384/cap_detection_handheld_val.tar.gz.72f58e69582c17dd366d3c7e85cf0da8) (0.9 GB)&nbsp;&nbsp;MD5:72f58e69582c17dd366d3c7e85cf0da8&nbsp;&nbsp;(05May23)
     * Validation set for handheld activity detection in untrimmed clips
 
 
@@ -37,12 +37,12 @@ This dataset is associated with the:
 Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
 "Fine-grained Activities of People Worldwide", [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
 
-> @article{Byrne2022Fine,  
+> @article{Byrne2023Fine,  
 > &nbsp;&nbsp; title = "Fine-grained Activities of People Worldwide",  
 > &nbsp;&nbsp; author = "J. Byrne and G. Castanon and Z. Li and G. Ettinger",  
-> &nbsp;&nbsp; journal = "Winter Applications of Computer Vision (WACV'23)"
+> &nbsp;&nbsp; journal = "Winter Applications of Computer Vision (WACV'23)",  
 > &nbsp;&nbsp; year = 2023   
-> }
+> }  
 
 # License
 

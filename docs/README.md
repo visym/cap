@@ -13,7 +13,10 @@ The CAP dataset was collected with the following goals:
 * **Worldwide.**  Videos are collected from 780 collectors in 33 countries. 
 * **Large-scale.**  We provide an open and easily downloaded training/validation set suitable for pre-training.  
 
-This dataset will be associated with the [Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/fgad23) Challenge opening on September 5 2022.  The first workshop will evaluate activity classification in trimmed clips and the second workshop will evaluate temporal activity detection in untrimmed clips.
+This dataset is associated with the:
+
+* [First Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/fgad23) at [WACV'23](https://wacv2023.thecvf.com/node/138) in January 2023
+* [Second Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/iccv_fgad23) at [ICCV'23](https://iccv2023.thecvf.com/list.of.accepted.workshops-363300-4-31-33.php) in October 2023.  
 
 
 ## Explorer
@@ -37,10 +40,12 @@ This summary shows the statistics of the entire CAP dataset which includes activ
 
 ## Download
 
-* [cap_classification_clip.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_clip.tar.gz) (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_clip.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_clip.tar.gz) (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;&nbsp;(02Mar22)
     * Tight temporal clip training/validation set for handheld activity classification
-* [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;Last Updated 02Mar22
+* [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;(02Mar22)
     * Temporally padded (&gt;4s) training/validation set for handheld activity classification
+* [cap_detection_handheld_val.tar.gz](https://dl.dropboxusercontent.com/s/db11zv0gcycu384/cap_detection_handheld_val.tar.gz.72f58e69582c17dd366d3c7e85cf0da8) (0.9 GB)&nbsp;&nbsp;MD5:72f58e69582c17dd366d3c7e85cf0da8&nbsp;&nbsp;(05May23)
+    * Validation set for handheld activity detection in untrimmed clips
 
 <!--
 * cap_classification_pad_stabilized.tar.gz (XXX GB)&nbsp;&nbsp;MD5:XXXX&nbsp;&nbsp;
@@ -51,17 +56,19 @@ This summary shows the statistics of the entire CAP dataset which includes activ
 
 Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  Every subject in this dataset has consented to their personally identifable information to be shared publicly for the purpose of advancing computer vision research.  Non-consented subjects have their faces blurred out.  
 
+
 ## Reference
 
 Jeffrey Byrne [(Visym Labs)](https://visym.com), Greg Castanon [(STR)](https://str.us), Zhongheng Li [(STR)](https://str.us) and Gil Ettinger [(STR)](https://str.us)  
-"Fine-grained Activities of People Worldwide", [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022   
+"Fine-grained Activities of People Worldwide", [arXiv:2207.05182](https://arxiv.org/abs/2207.05182), 2022
 
-> @article{Byrne2022Fine,  
+> @article{Byrne2023Fine,  
 > &nbsp;&nbsp; title = "Fine-grained Activities of People Worldwide",  
 > &nbsp;&nbsp; author = "J. Byrne and G. Castanon and Z. Li and G. Ettinger",  
-> &nbsp;&nbsp; journal = "arXiv:2207.05182",  
-> &nbsp;&nbsp; year = 2022   
-> }
+> &nbsp;&nbsp; journal = "Winter Applications of Computer Vision (WACV'23)",  
+> &nbsp;&nbsp; year = 2023   
+> }  
+
 
 # Acknowledgement
 
