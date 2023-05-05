@@ -24,12 +24,12 @@ This dataset is associated with the:
 
 # Download
 
+* [cap_detection_handheld_val.tar.gz](https://dl.dropboxusercontent.com/s/db11zv0gcycu384/cap_detection_handheld_val.tar.gz.72f58e69582c17dd366d3c7e85cf0da8) (0.9 GB)&nbsp;&nbsp;MD5:72f58e69582c17dd366d3c7e85cf0da8&nbsp;&nbsp;(05May23)
+    * Validation set for handheld activity detection in untrimmed clips for the second [fine-grained activity detection challenge](https://openfad.nist.gov/workshop/iccv_fgad23) 
 * [cap_classification_clip.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_clip.tar.gz) (288 GB)&nbsp;&nbsp;MD5:54315e2ce204f0dbbe298490a63b5b3b&nbsp;
     * Tight temporal clip training/validation set for handheld activity classification
 * [cap_classification_pad.tar.gz](https://consented-activities-of-people.s3.us-west-2.amazonaws.com/train/cap_classification_pad.tar.gz) (386 GB)&nbsp;&nbsp;MD5:fbdc75e6ef10b874ddda20ee9765a710&nbsp;&nbsp;
     * Temporally padded (&gt;4s) training/validation set for handheld activity classification
-* [cap_detection_handheld_val.tar.gz](https://dl.dropboxusercontent.com/s/db11zv0gcycu384/cap_detection_handheld_val.tar.gz.72f58e69582c17dd366d3c7e85cf0da8) (0.9 GB)&nbsp;&nbsp;MD5:72f58e69582c17dd366d3c7e85cf0da8&nbsp;&nbsp;(05May23)
-    * Validation set for handheld activity detection in untrimmed clips
 
 
 # Reference
