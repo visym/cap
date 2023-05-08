@@ -16,7 +16,7 @@ The CAP dataset was collected with the following goals:
 This dataset is associated with the:
 
 * [First Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/fgad23) at [WACV'23](https://wacv2023.thecvf.com/node/138) in January 2023
-* [Second Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/iccv_fgad23) at [ICCV'23](https://iccv2023.thecvf.com/list.of.accepted.workshops-363300-4-31-33.php) in October 2023.  
+* [Second Workshop on Fine-grained Activity Detection](https://openfad.nist.gov/workshop/iccv_fgad23) at [ICCV'23](https://iccv2023.thecvf.com/list.of.accepted.workshops-363300-4-31-33.php) in October 2023
 
 
 ## Explorer
