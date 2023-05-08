@@ -15,7 +15,7 @@ The tasks for evaluation on this challenge are:
 
 * Temporal Activity Detection (TAD)}.  The Temporal Activity Detection (AD) task is to detect and temporally localize all activity instances in untrimmed video.  The metric for AD performance is Mean Average Precision (mAP) at a fixed temporal intersection over union (IoU) of 0.2, 0.5, 0.8.
 
-The leaderboard evaluation will be performed on a video test set available to the challenge participants, with sequestered ground truth.  Training and validation sets are publicly available.  Test sets are sequestered and are available to the challenge participants for video download following registration and submission of a license agreement.  Challenge participants are required to upload a CSV file with results on each test set videos to an evaluation server, which will then perform the evaluation and push results to the public leaderboard.  A comprehensive \href{https://openfad.nist.gov/uassets/3}{evaluation plan} is available for review.
+The leaderboard evaluation will be performed on a video test set available to the challenge participants, with sequestered ground truth.  Training and validation sets are publicly available.  Test sets are sequestered and are available to the challenge participants for video download following registration and submission of a license agreement.  Challenge participants are required to upload a CSV file with results on each test set videos to an evaluation server, which will then perform the evaluation and push results to the public leaderboard.  A comprehensive [evaluation plan](https://openfad.nist.gov/uassets/3) is available for review.
 
 
 ## Download
