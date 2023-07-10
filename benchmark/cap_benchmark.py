@@ -7,9 +7,6 @@ import vipy.batch
 import vipy.dataset
 import vipy.torch
 import vipy.show
-import pycollector.program.pip
-import pycollector.dataset
-import pycollector.label
 import heyvi.recognition
 import heyvi.detection
 import torch
@@ -23,7 +20,6 @@ import numpy as np
 import gc 
 import h5py
 import matplotlib.pyplot as plt
-import shutil
 
 
 DATASET = {'cap_classification_pad':{'trainpath':'cap_classification_pad.fbdc75e6ef10b874ddda20ee9765a710',
