@@ -22,6 +22,11 @@ import h5py
 import matplotlib.pyplot as plt
 
 
+# Update these paths to point to your local directories:
+# - The naming convention "cap_classification_pad.fbdc75e6ef10b874ddda20ee9765a710" is a tarball cap_classification_pad.tar.gz with MD5 sum "fbdc75e6ef10b874ddda20ee9765a710".
+# - Unpack the tarball, and rename the directory it unpacks to using this convention
+# - The files in directories appended with "_truth" are sequestered and are not used by leaderboard submitters
+# - The files in directories appended with "_test" are available for download on the leaderboard after submitting a license agreement
 DATASET = {'cap_classification_pad':{'trainpath':'cap_classification_pad.fbdc75e6ef10b874ddda20ee9765a710',
                                      'trainsplit':'cap_classification_pad.fbdc75e6ef10b874ddda20ee9765a710/train_val.json',
                                      'testpath':'cap_classification_pad_test.c241c3d0200128a0540e4e15d831954f',
